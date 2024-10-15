@@ -1,6 +1,6 @@
 # Excel Automation Project
 
-This project demonstrates how to interact with Excel files using Python. It includes two scripts that automate the creation and manipulation of Excel workbooks using `openpyxl` and `win32com.client`.
+This very simple project demonstrates how to interact with Excel files using Python. It includes two scripts that automate the creation and manipulation of Excel workbooks using `openpyxl` and `win32com.client`.
 
 ## Requirements
 
